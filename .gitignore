@@ -1,0 +1,4 @@
+_pycache_/
+*.sqlite3
+.DS_Store
+.idea
